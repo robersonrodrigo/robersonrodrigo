@@ -1,4 +1,5 @@
 ## Olá, logo logo, sai algo aqui! rs
+<!--
 👋 Olá, eu sou o Roberson!
 Sou um Profissional de Tecnologia da Informação com uma forte paixão por Cibersegurança e Desenvolvimento de Softwares. Minha jornada me levou a focar no mundo da Segurança da Informação, onde estou constantemente explorando novas técnicas e ferramentas para proteger e fortalecer infraestruturas de rede. Atualmente, estou aprimorando minhas habilidades no Red Teaming e criando soluções automatizadas para desafios complexos de segurança.
 
