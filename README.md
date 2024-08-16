@@ -1,7 +1,3 @@
-## Olá, logo logo, sai algo aqui! rs
-
-### Carregando...
-
 <<!DOCTYPE html>
 <html>
 <head>
