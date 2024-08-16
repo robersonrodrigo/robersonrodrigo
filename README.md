@@ -3,7 +3,7 @@
 ### Carregando...
 
 <div align="center">
-  <img src="https://i.imgur.com/FofF6aG.gif" width="100px">
+  <img src="https://raw.githubusercontent.com/antonkomarev/github-svg-loader/master/animated-loader.svg" width="100px">
   <br>
   <span>Por favor, aguarde...</span>
 </div>
