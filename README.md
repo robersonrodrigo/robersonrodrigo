@@ -1,24 +1,59 @@
-<h2 align="center">Olá 👋! Eu sou o Roberson, bem-vindo ao meu repositório!</h2>
+<h2 align="left"><strong>Hello 👋! I'm Roberson, welcome to my repository!</strong></h2>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/robersonrodrigo/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=robersonrodrigo.robersonrodrigo&" alt="Visitor Count" />
 </div>
 
 ###
 
-<br clear="both">
+<h3 align="left"><strong>👨‍💻 About Me</strong></h3>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=robersonrodrigo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=robersonrodrigo&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=robersonrodrigo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robersonrodrigo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+###
+
+<p align="left">
+  🔭 I’m currently working as an IT Professional, focused on Network Infrastructure and Cybersecurity.<br>
+  📚 I’m learning offensive security techniques and enhancing my skills in Red Team operations.<br>
+  ⚡ In my free time, I enjoy exploring new cybersecurity tools, automating tasks, and contributing to open-source projects.
+</p>
+
+###
+
+<h3 align="left"><strong>🛠 Languages and Tools</strong></h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="40" alt="Kali Linux Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash Logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python Logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C Logo" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/robersonrodrigo/robersonrodrigo/output/snake.svg" alt="Snake animation" />
+<h3 align="left"><strong>🔥 My Stats :</strong></h3>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=robersonrodrigo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/robersonr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" />
+  </a>
+</div>
