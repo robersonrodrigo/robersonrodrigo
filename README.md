@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left"><strong>👨‍💻 About Me</strong></h3>
+<h3 align="left"><strong>👨‍💻 Whoami</strong></h3>
 
 ###
 
