@@ -1,4 +1,4 @@
-<h2 align="left"><strong>Hello 👋! I'm Roberson, welcome to my repository!</strong></h2>
+<h2 align="left"><strong>Hello! I'm Roberson, welcome to my repository!</strong></h2>
 
 ###
 
