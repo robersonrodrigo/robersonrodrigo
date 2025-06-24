@@ -1,4 +1,4 @@
-<h2 align="left"><strong>Hello 👋! I'm Roberson, welcome to my repository!</strong></h2>
+<h2 align="left"><strong>👋 Hello! I'm Roberson, welcome to my repository!</strong></h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=robersonrodrigo.robersonrodrigo" alt="Visitor Count" />
@@ -8,10 +8,10 @@
 
 ### 👨‍💻 Whoami
 
-- 🔐 Information Security Analyst focused on **network infrastructure** and **offensive cybersecurity**  
-- 🧠 Diving into **Red Team operations**: exploitation, post-exploitation, and pentest automation  
-- ⚙️ Passionate about scripting in **Bash** and **PowerShell** for automation and auditing  
-- 💻 Open-source enthusiast and ethical hacking advocate
+- 🔐 Information Security Analyst focused on **network infrastructure** and **offensive cybersecurity**
+- 🧠 Diving into **Red Team operations**: exploitation, post-exploitation, and pentest automation
+- ⚙️ Passionate about scripting in **Bash** and **PowerShell** to automate tasks and audits
+- 💻 Open-source enthusiast and advocate for ethical hacking culture
 
 ---
 
@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux Badge" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
   <br><br>
-  
+
   <!-- Languages -->
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <br><br>
-  
+
   <!-- Tools -->
   <img src="https://cdn.simpleicons.org/metasploit/white?logo=metasploit&color=blue" height="35" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/burpsuite/ff6600?logo=burpsuite&color=black" height="35" alt="Burp Suite" />
@@ -45,8 +45,8 @@
 
 - 🔎 Bash-based tools for automated offensive reconnaissance  
 - 🛠️ Custom scripts for port scanning and banner grabbing  
-- 📡 Alert and logging integrations using Wazuh, Telegram, and Active Directory  
-- 👾 Studying brute-force attacks with Hydra, John the Ripper, and Hashcat  
+- 📡 Alert/log integrations using Wazuh, Telegram, and Active Directory  
+- 👾 Studying brute-force techniques with Hydra, John the Ripper, and Hashcat  
 
 ---
 
