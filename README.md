@@ -1,4 +1,4 @@
-<h2 align="left"><strong>Olá 👋! Eu sou o Roberson, bem-vindo ao meu repositório!</strong></h2>
+<h2 align="left"><strong>Hello 👋! I'm Roberson, welcome to my repository!</strong></h2>
 
 ###
 
@@ -11,29 +11,29 @@
 <h3 align="left"><strong>👨‍💻 Whoami</strong></h3>
 
 <p align="left">
-  🔐 Analista de Segurança da Informação, com foco em <strong>infraestrutura de redes</strong> e <strong>cibersegurança ofensiva</strong>.<br>
-  🧠 Atualmente aprofundando meus conhecimentos em <strong>Red Team</strong>, técnicas de exploração, pós-exploração e automações para pentests.<br>
-  ⚙️ Curto desenvolver scripts em <strong>Bash</strong> e <strong>PowerShell</strong> para automação de tarefas e uso prático em auditorias.<br>
-  💻 Entusiasta de código aberto e defensor da cultura hacker ética.
+  🔐 Information Security Analyst focused on <strong>network infrastructure</strong> and <strong>offensive cybersecurity</strong>.<br>
+  🧠 Currently diving deeper into <strong>Red Team operations</strong>, including exploitation, post-exploitation, and pentest automation.<br>
+  ⚙️ Passionate about scripting in <strong>Bash</strong> and <strong>PowerShell</strong> to automate tasks and improve auditing workflows.<br>
+  💻 Open-source enthusiast and advocate of ethical hacking culture.
 </p>
 
 ###
 
-<h3 align="left"><strong>🛠 Ferramentas e Tecnologias</strong></h3>
+<h3 align="left"><strong>🛠 Languages and Tools</strong></h3>
 
 <div align="left">
-  <!-- Sistemas Operacionais -->
+  <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="28" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="28" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
   <br><br>
-  <!-- Linguagens -->
+  <!-- Languages -->
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <br><br>
-  <!-- Ferramentas -->
+  <!-- Tools -->
   <img src="https://www.kali.org/images/tools/metasploit-logo.svg" height="35" alt="Metasploit" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Burp_Suite_Logo.png" height="35" alt="Burp Suite" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nmap_Logo.svg/512px-Nmap_Logo.svg.png" height="35" alt="Nmap" />
@@ -43,12 +43,12 @@
 
 ###
 
-<h3 align="left"><strong>🧪 Projetos em andamento</strong></h3>
+<h3 align="left"><strong>🚧 Projects in Progress</strong></h3>
 
-- 🔍 Ferramentas para automação de reconhecimento ofensivo em Bash
-- 📡 Scripts para varredura de portas e coleta de banners
-- 🛠 Integrações de alertas e logs com Wazuh, Telegram e AD
-- 👾 Estudo e aplicação de força bruta com Hydra, John, Hashcat
+- 🔍 Bash-based tools for automated offensive reconnaissance  
+- 📡 Custom scripts for port scanning and banner grabbing  
+- 🛠 Alert and logging integrations using Wazuh, Telegram, and Active Directory  
+- 👾 Studying brute-force attacks with Hydra, John the Ripper, and Hashcat  
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left"><strong>🌐 Conecte-se comigo</strong></h3>
+<h3 align="left"><strong>🌐 Connect with me</strong></h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/robersonr/" target="_blank">
