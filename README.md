@@ -10,7 +10,7 @@
 
 - 🔐 Information Security Analyst focused on **network infrastructure** and **offensive cybersecurity**
 - 🧠 Diving into **Red Team operations**: exploitation, post-exploitation, and pentest automation
-- ⚙️ Passionate about scripting in **Bash** and **PowerShell** to automate tasks and audits
+- ⚙️ Passionate about scripting in **Bash**, **PowerShell**, and **Java** to automate tasks and audits
 - 💻 Open-source enthusiast and advocate for ethical hacking culture
 
 ---
@@ -29,13 +29,12 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <br><br>
 
   <!-- Tools -->
   <img src="https://cdn.simpleicons.org/metasploit/white?logo=metasploit&color=blue" height="35" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/burpsuite/ff6600?logo=burpsuite&color=black" height="35" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/nmap/5A7A9C" height="35" alt="Nmap" />
-  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.svg" height="35" alt="Nuclei" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
 </div>
 
@@ -53,7 +52,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=robersonrodrigo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robersonrodrigo&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=robersonrodrigo&theme=dark&hide_border=false&border_radius=5" height="180" alt="Streak Graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robersonrodrigo&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="Top Languages" />
 </div>
 
 ---
