@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Whoami
 
-- 🔐 Information Security Analyst focused on **network infrastructure** and **offensive cybersecurity**
+- 🔐 Information Security Analyst focused on **network infrastructure** and **offensive security**
 - 🧠 Diving into **Red Team operations**: exploitation, post-exploitation, and pentest automation
 - ⚙️ Passionate about scripting in **Bash**, **PowerShell**, and **Java** to automate tasks and audits
 - 💻 Open-source enthusiast and advocate for ethical hacking culture
